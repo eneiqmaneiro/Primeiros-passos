@@ -1,4 +1,4 @@
-\# FitLife Dashboard
+# FitLife Dashboard
 
 
 
@@ -10,13 +10,13 @@ Ferramentas utilizadas:
 
 
 
-\- HTML
+- HTML
 
-\- CSS
+- CSS
 
-\- JavaScript
+- JavaScript
 
-\- Git
+- Git
 
-\- GitHub
+- GitHub
 
